@@ -1,0 +1,14 @@
+services:
+  bug-update-jsr-dev:
+    image: bug-update-jsr-dev
+    container_name: bug-update-jsr-dev
+    build:
+      context: ../.
+      dockerfile: ./.devcontainer/Dockerfile
+    privileged: true
+    working_dir: /bug-update-jsr
+    ports:
+      - "4200:4200"
+    volumes:
+      - ..:/bug-update-jsr:cached
+    tty: true

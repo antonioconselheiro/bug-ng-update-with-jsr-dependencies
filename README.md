@@ -6,4 +6,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 You can run this project by `devcontainer open .`.
 
-You can find this issue in [angular](https://github.com/angular/angular-cli/issues/28858).
+You can find this issue in [angular cli](https://github.com/angular/angular-cli/issues/28858).

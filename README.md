@@ -5,3 +5,5 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
 You can run this project by `devcontainer open .`.
+
+You can find this issue in [angular](https://github.com/angular/angular-cli/issues/28858).
